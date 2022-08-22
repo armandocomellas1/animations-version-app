@@ -12,6 +12,11 @@
 - Flexbox and CSS Grid in order to make a structure in the html and look nice.
 - Media Query (very important)
 
+## Descriptino of the project
+
+- This project consist in add an animation into the FIGMA copy design.
+- What is special for this project, is looking to apply @key-frames to make a simple animation at the begining.
+
 ## Getting Started
 
 - You must need to install npm packages (Linters such as Lighthouse, webhint and stylehintrc) in order to make work the project.
