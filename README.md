@@ -5,7 +5,7 @@
 > Portfolio: mobile version.
 
 
-## Built With
+## List of technologies
 
 - HTML5
 - CSS
